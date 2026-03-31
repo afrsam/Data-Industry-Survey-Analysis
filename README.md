@@ -1,6 +1,6 @@
 # Data Industry Survey Analysis - Power BI Dashboard
 
-Executive Summary:
+**Executive Summary:**
 
 This project analyzes responses from a global data industry survey to understand trends in salaries, job roles, programming preferences, and employee satisfaction within the data profession. The dashboard provides insights into how compensation differs by job title, which programming languages are most commonly used, how respondents are distributed across countries, and how professionals feel about their work-life balance and salary satisfaction. The analysis helps identify patterns in the data job market and highlights areas that may influence career decisions, workforce planning, and talent strategy.
 
