@@ -51,6 +51,7 @@ Analyzed employee satisfaction trends.
 Evaluated respondent demographics.
 
 
+
 Skills Demonstrated:
 
 Power BI
@@ -72,6 +73,7 @@ Insight Generation
 Business Storytelling
 
 Analytical Thinking
+
 
 
 Results:
