@@ -18,14 +18,12 @@ Methodology:
 
 The project was built in Power BI using survey data collected from data professionals across multiple countries.
 Steps followed:
-
 Data Cleaning:
 
 Removed inconsistencies and blank values.
 Standardized job titles and country names.
 Validated salary and age-related fields.
 Handled missing or duplicate survey responses.
-
 Data Transformation:
 
 Used Power Query for shaping and formatting data.
@@ -35,7 +33,6 @@ Total survey respondents
 Average age
 Work-life balance score
 Salary satisfaction score
-
 Visualization Design:
 
 Built interactive visuals including:
@@ -44,7 +41,6 @@ Treemap for residence country distribution.
 Donut chart for gender split.
 Gauge charts for satisfaction ratings.
 Column chart for favorite programming languages.
-
 Insight Generation:
 
 Compared salary levels across job roles.
