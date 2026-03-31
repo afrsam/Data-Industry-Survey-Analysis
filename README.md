@@ -52,14 +52,23 @@ Evaluated respondent demographics.
 Skills Demonstrated:
 
 Power BI
+
 Power Query
+
 Data Cleaning
+
 Data Transformation
+
 DAX Measures
+
 Dashboard Design
+
 Data Visualization
+
 Insight Generation
+
 Business Storytelling
+
 Analytical Thinking
 
 
