@@ -50,8 +50,6 @@ Identified the most popular programming language.
 Analyzed employee satisfaction trends.
 Evaluated respondent demographics.
 
-
-
 Skills Demonstrated:
 
 Power BI
