@@ -1,9 +1,11 @@
 # Data Industry Survey Analysis - Power BI Dashboard
 
-Executive Summary
+Executive Summary:
+
 This project analyzes responses from a global data industry survey to understand trends in salaries, job roles, programming preferences, and employee satisfaction within the data profession. The dashboard provides insights into how compensation differs by job title, which programming languages are most commonly used, how respondents are distributed across countries, and how professionals feel about their work-life balance and salary satisfaction. The analysis helps identify patterns in the data job market and highlights areas that may influence career decisions, workforce planning, and talent strategy.
 
-Business Problem
+Business Problem:
+
 The data industry is rapidly evolving, with increasing demand for specialized roles such as Data Analysts, Data Engineers, and Data Scientists. However, professionals and organizations often struggle to clearly understand:
 Which data roles offer the highest average salaries?
 Which technical skills are most commonly preferred?
@@ -12,17 +14,20 @@ Geographic distribution of data professionals?
 Gender representation within survey respondents?
 Without clear visibility into these trends, it becomes difficult for both job seekers and organizations to make informed decisions around career growth, hiring, compensation benchmarking, and skill development.
 
-Methodology
-The project was built in Power BI using survey data collected from data professionals across multiple countries.
+Methodology:
 
-Steps followed
-Data Cleaning
+The project was built in Power BI using survey data collected from data professionals across multiple countries.
+Steps followed:
+
+Data Cleaning:
+
 Removed inconsistencies and blank values.
 Standardized job titles and country names.
 Validated salary and age-related fields.
 Handled missing or duplicate survey responses.
 
-Data Transformation
+Data Transformation:
+
 Used Power Query for shaping and formatting data.
 Created calculated measures for:
 Average salary by job role
@@ -31,7 +36,8 @@ Average age
 Work-life balance score
 Salary satisfaction score
 
-Visualization Design
+Visualization Design:
+
 Built interactive visuals including:
 Bar chart for salary comparison.
 Treemap for residence country distribution.
@@ -39,14 +45,16 @@ Donut chart for gender split.
 Gauge charts for satisfaction ratings.
 Column chart for favorite programming languages.
 
-Insight Generation
+Insight Generation:
+
 Compared salary levels across job roles.
 Identified the most popular programming language.
 Analyzed employee satisfaction trends.
 Evaluated respondent demographics.
 
 
-Skills Demonstrated
+Skills Demonstrated:
+
 Power BI
 Power Query
 Data Cleaning
@@ -59,16 +67,17 @@ Business Storytelling
 Analytical Thinking
 
 
-Results
+Results:
 
 The dashboard revealed several meaningful insights:
+
 Data Scientists reported the highest average salary among surveyed roles.
 Python is by far the most preferred programming language in the data field.
 Gender distribution in the survey appears relatively balanced, providing a useful comparison dimension.
 Salary satisfaction (5.74/10) is slightly higher than work-life balance (4.27/10), indicating that compensation may be moderately acceptable while personal balance remains a concern.
 These findings provide a practical overview of current industry trends for aspiring and experienced data professionals.
 
-Recommendations
+Recommendations:
 
 Based on the analysis, the following recommendations can be drawn:
 Focus on Python proficiency, as it remains the most in-demand and widely preferred programming language.
