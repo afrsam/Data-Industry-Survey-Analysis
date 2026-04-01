@@ -110,4 +110,5 @@ Future surveys can include experience level and education fields to deepen salar
 
 **Dashboard Preview:**
 
-https://github.com/afrsam/Data-Industry-Survey-Analysis/blob/main/Snapshot%20of%20Power%20BI%20project%20-%20Data%20Industry.png
+![Dashboard Preview]([grocery_dashboard.png](https://github.com/afrsam/Data-Industry-Survey-Analysis/blob/main/Snapshot%20of%20Power%20BI%20project%20-%20Data%20Industry.png))
+
